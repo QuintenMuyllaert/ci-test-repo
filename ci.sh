@@ -1,5 +1,5 @@
 #throw an error exit status 
 
-echo ":)"
+echo "🫡"
 
-exit 1
+exit "error"
