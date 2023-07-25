@@ -1,5 +1,5 @@
 #throw an error exit status 
 
-echo "throw"
+echo ":)"
 
 exit 1
